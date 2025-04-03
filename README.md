@@ -1,6 +1,6 @@
 # Executive-Retail-Sales-Analytics-Dashboard.
 
-<img src="Maven Supplies Logo.png" width="2000" height="200"/>&nbsp;
+<img src="Images/Maven Supplies Logo.png" width="2000" height="200"/>&nbsp;
 
 ## Overview
 
@@ -10,6 +10,10 @@ This repository contains a Tableau dashboard that provides insights into executi
 ## Dataset
 
 The analysis in this project is based on the Maven Supplies Raw dataset. The dataset includes sales, orders, and returns data, which were used to generate insights.
+
+## Tool used :
+<img src="Images/Tableau logo.png" width="300" height="150"/>&nbsp;
+
 
 ## Key Insights
 
@@ -98,3 +102,26 @@ These insights help businesses identify high-performing areas and make strategic
 •	This Tableau dashboard helps businesses analyze sales trends and profitability.
 
 •	The insights can guide strategic decisions such as regional investments, discount policies, and category prioritization.
+
+## Dashboard :
+<img src="Images/Retail Dashboard.png" width="2500" height="600"/>&nbsp;
+
+## Story Telling
+
+### 1.New York City is the best performer across all key metrics.
+
+<img src="Images/Story 1" width="2500" height="600"/>&nbsp;
+
+
+### 2.September 2018 marked the highest sales and profit in the dataset.
+
+<img src="Images/Story 2" width="2500" height="600"/>&nbsp;
+
+
+3.Central & West regions performed the best in terms of sales and profitability.
+
+<img src="Images/Story 3" width="2500" height="600"/>&nbsp;
+
+
+
+
