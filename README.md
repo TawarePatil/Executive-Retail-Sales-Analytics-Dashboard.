@@ -1,5 +1,9 @@
 # Executive-Retail-Sales-Analytics-Dashboard.
 
+## Project Link
+
+[Executive-Retail-Sales-Analytics-Dashboard Link](https://public.tableau.com/views/RetailProject_17442953554320/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 <img src="Images/Maven Supplies Logo.png" width="2000" height="200"/>&nbsp;
 
 ## Overview
